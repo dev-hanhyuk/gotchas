@@ -1,4 +1,5 @@
 # Linked List
+Linked Lists are collections of nodes — wrapper structures which encapsulate a value and one or more pointers (references) to other nodes.
 
 ## Methods
 * addToTail
