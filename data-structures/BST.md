@@ -2,6 +2,14 @@
 It is a Search tree if all nodes respect an order: all values less than a given node value are in its left subtree, and all values greater or equal to a given node value are stored in its right subtree. For every node you jump, you are on average throwing away half of the remaining nodes in your search. This means that for a (balanced) tree of n nodes, you will find the minimum in an average of log2(n) moves. Log2(n) grows very very slowly with respect to n. In the worst case, a "degenerate" tree is just a linked list.
 
 
+## Methods
+* insert
+* contains
+* size
+* depthFirstForEach
+* breadthFirstForEach
+
+
 ## Traversal
 A classic problem for trees is how to traverse them — i.e., visit and process every node. There are four flavors of tree traversal:
 
@@ -36,6 +44,10 @@ BST.prototype.contains = function(val) {
   else return false;
 }
 
+BST.prototype.size = function() {
+  return this.size;
+}
+
 BST.prototype.depthFirstForEach = function(iterator, order) {
   if (order === 'pre-order') iterator(this.value);
   if (this.left) this.left.depthFirstForEach(iterator, order);
@@ -53,10 +65,6 @@ BST.prototype.breadthFirstForEach = function(iterator) {
     if (tree.left) queue.push(tree.left);
     if (tree.right) queue.push(tree.right);
   }
-}
-
-BST.prototype.size = function() {
-  return this.size;
 }
 
 ```
