@@ -1,10 +1,13 @@
-# resources
+# RESOURCES
 great references and resources links
 <br/>
 <br/>
 
 ## CSS
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Slide-in-from-left: http://codepen.io/SitePoint/pen/MwEaQM/
+* Slide-in as you scroll down: https://css-tricks.com/slide-in-as-you-scroll-down-boxes/
+
 <br/>
 <br/>
 
@@ -36,6 +39,11 @@ great references and resources links
 ## 3D MMO
 * https://davidwalsh.name/3d-websockets
 
-## React Reusable Components
+## REACT REUSABLE COMPONENTS
 * topbar with scrolling sense: https://jsfiddle.net/69z2wepo/47333/
 
+## MACHINE LEARNING
+* https://www.ibm.com/developerworks/library/os-recommender1/
+* https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
+* https://www.toptal.com/algorithms/predicting-likes-inside-a-simple-recommendation-engine
+* K-mean: http://burakkanber.com/blog/machine-learning-k-means-clustering-in-javascript-part-1/
