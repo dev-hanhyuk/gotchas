@@ -61,6 +61,7 @@ great references and resources links
 * https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
 * https://www.toptal.com/algorithms/predicting-likes-inside-a-simple-recommendation-engine
 * K-mean: http://burakkanber.com/blog/machine-learning-k-means-clustering-in-javascript-part-1/
+* Pyton Wine Recommendation: https://www.codementor.io/jadianes/build-data-products-django-machine-learning-clustering-user-preferences-du107s5mk?utm_campaign=cm-internal&utm_source=tutorial&utm_medium=related-posts&utm_term=du107s5mk&ref=tutorial-du107s5mk
 <br/>
 <br/>
 
