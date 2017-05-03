@@ -13,6 +13,8 @@ great references and resources links
 
 ## INTERVIEW PREP & OTHERS
 * http://www.thatjsdude.com/interview/index.html
+* Big-O, time and complexity: https://www.interviewcake.com/article/javascript/big-o-notation-time-and-space-complexity
+* OOP: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
 <br/>
 <br/>
 
@@ -67,12 +69,22 @@ great references and resources links
 
 ## D3.JS
 * eventlistener: https://www.dashingd3js.com/lessons/d3-and-dom-events
-* 
+<br/>
+<br/>
+
+## AWS
+* VPC setup for IPV6: https://www.youtube.com/watch?v=j4lyl0UPvmc
 <br/>
 <br/>
 
 ## MULTIMEDIA
 * pixabay: https://pixabay.com/en/videos/
+<br/>
+<br/>
+
+## PYTHON
+* differences between Python 2 and 3: http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+* jupyter: http://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/tree/master/
 <br/>
 <br/>
 
